@@ -1,0 +1,27 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+  margin: auto;
+  width: 500px;
+}
+
+$gray: #F4F4F4;
+
+#coach {
+  background: #d4f3ef;
+  border-left: gray;
+}
+
+a {
+  color: black;
+  &:hover {
+    color: #63b7af;
+  }
+}
+
+#submit {
+  color: white;
+  background-color: #82c4c3
+}
